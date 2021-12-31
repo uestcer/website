@@ -20,4 +20,4 @@ jobs:
 
       - name: Build
         run: | 
-          cd exampleSite && hugo --themesDir ../..
+          hugo --themesDir ../..
